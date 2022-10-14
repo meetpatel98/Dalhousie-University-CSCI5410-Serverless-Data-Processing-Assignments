@@ -1,0 +1,8 @@
+part_b_aws_s3\AWSConnection.class
+part_c_aws_s3\DynamoDBConnection.class
+part_c_aws_s3\Main.class
+part_b_aws_s3\UploadFile.class
+part_b_aws_s3\Main.class
+part_c_aws_s3\RetriveData.class
+part_b_aws_s3\S3Bucket.class
+part_c_aws_s3\AddAttribute.class

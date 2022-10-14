@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "csci5410-assignment4-partb",
+  "private_key_id": "bbfabf0ee9a580221c3adb6df2d95e99b77a4ceb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQ1L3bkgc5FPaD\nZUDz3NPyfW9mbjY80e6k96r2hMas4D9ThjAoNlOFmd0+bq/GJqnualvjUqFxCkEW\nh9awjAhkbEi1dv4Aeyh36WePJg3psXn9VOi9JoEsEQLAtEmxlGiGZU9zlHgbZRLG\nihutpnUhtGCg8AXP8fKL5q0HCXi0FyRIDRVm2Sj9t3Fg9o3HcrZUzsfUbU3fykpg\nj02F3jaggu/A4fb/F86zc/kuTdLCxwlXldS3Deh8M7jQ+0FbKeVJRAnfuNCGofT6\nOruAZEuL8WAKvaauUCtlef2CCv3FnjwmrT/POtPqPqJXoQ0HmN1morBikmA+0DhG\nwW5pqOZVAgMBAAECggEAJnlffkXN514dmbEssZEYimdCQC6jdvqde0629IKbYOvS\ntvZ0xl/V7PofSRqW70ydx7NYOQ42+K7RNY+yxeWSwT+y+J3S569JEiiSIA08iHbe\neQYs9/ZRW5dJuMuufRVQ2ZvuMqbipvds6V+2ADz3/QzwtY3rIDfc/hnyfGaqEpGQ\nZs1YM7CPJR75yAF04esg7n3iPndjg+Zf/hXj5ldt20NUR9D3TDWnh6R8VycZ86k5\n9Zu1EodKNz5zLCNcaYge27KzgqsFrvOJPjJFioeT4tykzD6LpI1Xv+6/yN6+7858\n5mbmadImWLz565tal7+dDsGJDswK2quuT2fZG6XV4QKBgQD74pXF8uDkve5rNfaK\nv7t9xx38AFByKVqcOR3tB5jeD4WaniSEEFdmnd4yHhNzk8zF6qmZb2xEr4JA7H3R\nuTo5ipGOgO3aEGVZwYjJbSyjfUHR1ZjWLeDYK5ybSdZiYs3QVHYe2b73+iIFqDVS\nlW8fOymLIV6ogOoKcEdpW5kCdQKBgQDUPhlbt7ymUNxru2BV5sBeFYKaMpDCmmom\nGG8quvR+II+vS3QaX3KCl1+o04GdNcpRRiP5NXw77JwLmyP05qLB01Nb/8pmE2it\nGb1aRZzFczsi7Vc8TUusLzSWurxhBqZnnWew3SG/GERfkXuddd/WFq67i1q5+roz\nbu6/dCQYYQKBgDHiLs00C4vhfX0oA7p4vDXtoCePHF9vhy1XNnEBxyl7I3d6iDrL\nTbPZ4e5E/I8wHya3EX18jpGPvJkE/Ony5/ALXEY/jFtaUegTpvZVM7jxDn7y8UDB\ndzz4bhxm5Bk5/g6bG4WClApiNCiwplbDl20090ZBhpCSb0c/8zSPWl8dAoGAKjUj\nQ9sZOBXyj7YWpV6bONqcO1/868Zbf7HyQZQmVQLSsDCYKTp8Aj5qNp/BMetljZ4e\nP0wEpcIbEi/LCcPn8BW/iRcoP/5yHaJ1xoL7d0TAKOT8KTDR8K7+jU8bcUwqQYbK\n/SAsutzvk/XRmHG9jsy5+O/wnfWfm+Tes9I772ECgYEApDMOpxeLiUrlN1STQkX1\nT21p33jDkAl3v4wXhZk3V+k3eaoAbDlSMu3A1ZIc9RDS4Vz71Yy78ZqvyGsXNK3g\n59Hksr7vVrM9LqJf5UxpDKOGDN9GSmjq3Vidy49ITtAJvihNXxaYIzHc6WLm6SAi\nq4zsdp4WFIlqncCXz28qdQM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "csci5410-assignment4-partb-sa@csci5410-assignment4-partb.iam.gserviceaccount.com",
+  "client_id": "112917762668784660251",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/csci5410-assignment4-partb-sa%40csci5410-assignment4-partb.iam.gserviceaccount.com"
+}

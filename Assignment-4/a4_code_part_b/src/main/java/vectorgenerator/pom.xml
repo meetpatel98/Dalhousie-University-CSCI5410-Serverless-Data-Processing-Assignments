@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>cloudfunctions</groupId>
+  <artifactId>gcs-function</artifactId>
+  <version>1.0-SNAPSHOT</version>
+
+  <name>CSCI5410 Assignment 4</name>
+  <description>This repository contains assignment 4 code for the subject CSCI5410 - Serverless Data Processing.
+  </description>
+  <inceptionYear>2021</inceptionYear>
+
+  <developers>
+    <developer>
+      <id>B00857606</id>
+      <name>Dhrumil Amish Shah</name>
+      <email>dh4163868@dal.ca</email>
+    </developer>
+  </developers>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.target>11</maven.compiler.target>
+    <maven.compiler.source>11</maven.compiler.source>
+  </properties>
+
+  <dependencies>
+    <!-- https://mvnrepository.com/artifact/com.google.cloud/google-cloud-storage -->
+    <dependency>
+      <groupId>com.google.cloud</groupId>
+      <artifactId>google-cloud-storage</artifactId>
+      <version>2.2.0</version>
+    </dependency>
+    <!--  https://mvnrepository.com/artifact/com.google.cloud.functions/functions-framework-api  -->
+    <dependency>
+      <groupId>com.google.cloud.functions</groupId>
+      <artifactId>functions-framework-api</artifactId>
+      <version>1.0.4</version>
+    </dependency>
+    <!--  https://mvnrepository.com/artifact/com.google.cloud/google-cloud-logging  -->
+    <dependency>
+      <groupId>com.google.cloud</groupId>
+      <artifactId>google-cloud-logging</artifactId>
+      <version>3.4.0</version>
+    </dependency>
+  </dependencies>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.8.1</version>
+        <configuration>
+          <release>11</release>
+          <excludes>
+            <exclude>.google</exclude>
+          </excludes>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>

@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.form-inputs {
+  margin-bottom: 0.75rem;
+}
+
+.error{
+  font-size: smaller;
+  color: red;
+  margin-top: -2px;
+}

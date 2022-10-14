@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    text-align: center;
+  }
+  
+  .form-inputs {
+    margin-bottom: 0.75rem;
+  }
+  
+  p {
+    width: 50%;
+    margin: 10px auto 20px auto;
+    
+  }
+
+  h2 {
+    color: darkred;
+  }

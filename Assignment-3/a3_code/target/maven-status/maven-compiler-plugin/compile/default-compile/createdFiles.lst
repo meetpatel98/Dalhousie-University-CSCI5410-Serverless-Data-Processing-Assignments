@@ -1,0 +1,6 @@
+assignment_3\part_a_application\Main.class
+assignment_3\part_a_application\UploadFile.class
+assignment_3\part_a_lambda_functions\ExtractFeaturesLambdaFunction.class
+assignment_3\part_a_application\AWSConnection.class
+assignment_3\part_a_application\S3Bucket.class
+assignment_3\part_a_lambda_functions\AccessDBLambdaFunction.class
